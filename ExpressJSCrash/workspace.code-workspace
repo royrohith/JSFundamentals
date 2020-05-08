@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\Projects\\BookListApp"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JS"
+	}
+}

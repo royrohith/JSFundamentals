@@ -1,0 +1,10 @@
+const http = require('http');
+
+//Create a server object
+http.createServer((req, res) => {
+res.write('Request Recieved..');   //server response
+res.end();             
+}).listen(5000, () => {
+    console.log('Server Running');
+});
+//open chrome -> localhost:5000
